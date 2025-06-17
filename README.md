@@ -24,6 +24,16 @@
 
 ---
 
+## 🖼 Preview
+
+### 🏠 Blog Homepage
+![Homepage](./Blog_homepage.png)
+
+### 💬 Comment Section
+![Comments](./blog_commentsection.png)
+
+---
+
 ## 🚀 How to Run Locally (XAMPP)
 
 1. Start Apache & MySQL using **XAMPP**
